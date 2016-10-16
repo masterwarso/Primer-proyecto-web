@@ -1,0 +1,19 @@
+li{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+    color: #ADB390;
+    padding: 13px;
+    background: #55A58B;    
+}
+div ul li{
+    display: inline-block;
+}
+h1{
+    color: blanchedalmond;
+    background-image: url("../imagenes/collage.jpg");
+    width: 85%;
+    height: 200px
+
+}
