@@ -1,22 +1,39 @@
-*{
-    background: #237;
+body{
+    background-image: url(../imagenes/map_02.jpg)
 }
 li{
     list-style: none;
 }
 a{
     text-decoration: none;
-    color: #ADB390;
+    color: black;
     padding: 13px;
-    background: #55A58B;    
+    background: #5C52E4;    
 }
 div ul li{
     display: inline-block;
 }
-h1{
+.cabeza{
     color: blanchedalmond;
-    background-image: url("../imagenes/collage.jpg");
-    width: 85%;
-    height: 200px
-
+    background: #5C52E4;
+    width: 50%;
+    height: 40px;
+    padding: 30px;
+    margin: auto;   
+}
+.content{
+    color: #000;
+    background: #5C52E4;
+    width: 25%;    
+    font-size: 19px;
+    padding: 30px;
+    margin-left: 250px;
+    display: inline-block;    
+}
+.question{
+    color: #251102;
+    background: #5C52E4;
+    width: 30%;
+    margin: auto;
+    margin-top: 30px;
 }
